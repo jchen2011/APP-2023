@@ -1,4 +1,4 @@
-// 7.1
+package week1;// 7.1
 // 1. Base case
 // 2. Make progress
 // 3. "you gotta believe"
