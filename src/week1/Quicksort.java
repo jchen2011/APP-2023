@@ -1,7 +1,7 @@
 package week1;// Java implementation of QuickSort
 
 
-class GFG {
+class Quicksort {
 
     // A utility function to swap two elements
     static void swap(int[] arr, int i, int j)
